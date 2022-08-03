@@ -1,0 +1,22 @@
+*{
+    text-decoration: none;
+}
+.descr h4{
+    color:  rgba(191, 123, 255, 0.781);
+}
+.trailer{
+    display: flex;
+    justify-content: center;
+    column-gap: 20px;
+    margin-top: 30px;
+}
+.trailer img{
+    width: 500px;
+    height: 300px;
+}
+.trailer p{
+    width: 25%;
+    margin: 20px;
+    font-size: 0.8em;
+}
+
